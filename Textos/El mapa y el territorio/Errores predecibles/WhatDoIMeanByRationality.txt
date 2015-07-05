@@ -1,0 +1,67 @@
+¿Qué quiero decir con “Racionalidad”? 
+
+Quiero decir: 
+
+	1. Racionalidad epistemológica: Que consiste en mejorar sistemáticamente la
+precisión de tus creencias. 
+
+	2. Racionalidad instrumental: Que consiste en alcanzar sistemáticamente tus metas. 
+
+Cuando abres los ojos y miras a la habitación a tu alrededor eres capaz de encontrar tu portátil encima de la mesa. O la estantería pegada a la pared. Si algo va mal con tus ojos o tu cerebro entonces tu modelo mental puede decir que hay una estantería donde no la hay y cuando vayas a coger un libro te llevarás una decepción. 
+
+A esto nos referimos cuando hablamos de creencias falsas: Mapas del mundo que no se corresponden con el territorio. La racionalidad epistemológica consiste precisamente en descartar estos mapas y cartografiar el mundo de forma precisa en su lugar. Esta correspondencia entre creencia y realidad se suele llamar “verdad” y no tengo ningún problema en utilizar ese nombre. 
+
+La racionalidad instrumental  por el contrario no consiste en observar la realidad sino en redirigirla, llevando el futuro hacia donde quieras que vaya. Es el arte de elegir las acciones que lleven a los resultados que más valor tengan de acuerdo con tus preferencias. Suelo llamar a esto “ganar”. 
+
+Así que la racionalidad consiste en formar creencias verdaderas y tomar decisiones ganadoras. 
+
+Buscar la “verdad” de esta forma no quiere decir ignorar la evidencia ambigua o indirecta. Mirar a la habitación que tienes a tu alrededor y formarte un mapa mental de ella no es diferente, en principio, de creer que la Tierra tiene un núcleo fundido o que Julio César era calvo. Estas preguntas, al ser lejanas en el espacio y en el tiempo, pueden parecer más abstractas que las preguntas sobre tu estantería. Pero existen hechos acerca del estado del núcleo terrestre en el año 2015 y la cabeza de César en el año 50 AC. Estos hechos pueden llegar a tener efectos sobre ti incluso si nunca encuentras una forma de encontrarte cara a cara con César. 
+
+Y “ganar” de la forma aquí expuesta no tiene porque ser a expensas de otros. Tu proyecto de vida puede ser colaborativo o totalmente desinteresado en lugar de ser competitivo. “Tus metas” significa cualquier cosa que te importe, incluso otras personas. No están restringidas a ser metas egoístas o que no compartas con nadie. 
+
+Cuando la gente dice “X es racional” suele ser sólo una forma más estridente de decir “X es verdad” o “X es bueno”. Así que, ¿por qué usar una palabra diferente para “racional” si ya tenemos “verdad” o “bueno”?  
+
+Se puede construir un argumento análogo en contra del uso de “verdad”. No hace falta decir “es verdad que la nieve es blanca” cuando podemos decir simplemente “la nieve es blanca”. Lo que hace útil a la idea de verdad es que nos permite hablar acerca de las cualidades de la correspondencia entre el mapa y el territorio. “Los modelos verdaderos suelen producir mejores predicciones experimentales que los modelos falsos” es una generalización muy útil y es una que no puede hacerse sin los conceptos de “verdad” o “precisión”. 
+
+Del mismo modo “Los agentes racionales toman decisiones que maximizan la esperanza probabilística de una función de utilidad coherente” es el tipo de concepto que depende de la idea de racionalidad, mientras que “Es racional comer verduras” podría sustituirse por “Es útil comer verduras”. Necesitamos un concepto como “racional” porque nos permite hablar sobre las características generales de las formas de pensar que producen verdad o utilidad de forma sistemática, y las formas por las que fallamos sistemáticamente al intentar alcanzar ese estándar. 
+
+A veces los psicólogos experimentales descubren que los humanos razonan de formas muy extrañas. Por ejemplo, cuando alguien dice que la probabilidad de que Bob toque jazz es menor que la probabilidad de que Bob sea un banquero que toca jazz. Dado que cualquier banquero que toque jazz obviamente toca jazz es fácil ver que hay algo mal en el razonamiento. ¿Pero con que estándar nos comparamos para poder decir que el razonamiento está mal?
+
+Los psicólogos experimentales se atienen a dos estándares concretos: La teoría de la probabilidad y la teoría de decisiones.
+
+La teoría de la probabilidad es el conjunto de leyes en las que se basa el pensamiento racional. Las matemáticas de la probabilidad describen sin distinción e igual de bien (a) cómo encontrar la estantería de tu habitación, (b) cómo conocer la temperatura del núcleo de la Tierra, y (c) estimar cuántos pelos había en la cabeza de Julio César. Son tres casos del mismo problema: cómo procesar la evidencia y las observaciones para revisar (“actualizar”) nuestras creencias. Del mismo modo la teoría de decisiones es el conjunto de leyes en las que se basan las acciones racionales y es aplicable del mismo modo independientemente de cuales sean tus metas o tus opciones. 
+
+Sea “P(X)” el símbolo para “la probabilidad de que suceda X” y “P(A,B)” el símbolo para “la probabilidad de que sucedan A y B”. Como es una ley universal de la probabilidad que P(A) >= P(A, B) queda claro que P(Bob toca jazz) <= P(Bob toca jazz y es un banquero) es un razonamiento incorrecto. 
+
+Si quisiéramos ser técnicos diríamos que ese juicio probabilístico es no Bayesiano. Las creencias y las acciones que son racionales en este sentido matemáticamente bien definido se llaman Bayesianas. 
+
+Hay que entender que el concepto moderno de racionalidad no trata sobre razonamientos con palabras. El primer ejemplo fue sobre abrir los ojos, mirar a tu alrededor y construir un modelo mental de una habitación con una estantería junto a la pared. El concepto moderno de racionalidad es lo suficientemente general como para incluir tus ojos y las partes de tu cerebro que interpretan las señales visuales como cosas que sirven para crear mapas. También incluye tus intuiciones subverbales. A las matemáticas no les importa que utilicemos la misma palabra, “racional”, para referirnos a Spock y al Bayesianismo. Las mates modelan cual es el camino correcto para llegar a alcanzar nuestras metas o modelar el mundo, independientemente de si ese camino encaja con nuestros prejuicios y estereotipos de lo que la racionalidad debería ser.
+
+Aún así estas definiciones no acaban de resolver el problema de a que nos referimos exactamente con “racionalidad” en la práctica. Ésto se debe a dos razones:
+
+Lo primero es que el formalismo Bayesiano en su forma completa es computacionalmente imposible de resolver. Nadie puede calcular y obedecer las matemáticas de la probabilidad, del mismo modo que no puedes predecir cómo cambiará la bolsa calculando movimientos de quarks. 
+
+Por eso es por lo que existe un blog entero (Less Wrong) dedicado a intentar resolver el problema en lugar de tener una página con los axiomas del sistema formal y nada más. Ser capaz de llegar a la verdad y alcanzar tus metas desde dentro de la mente humana es un arte: tenemos que aprender cuales son nuestras imperfecciones, superar nuestros sesgos, evitar engañarnos a nosotros mismos, encontrar un estado emocional que nos permita enfrentarnos a la verdad y hacer aquello que necesita hacerse, etc. 
+
+El segundo problema es que a veces el sentido del formalismo matemático se pone en duda. Las reglas exactas que seguir en probabilidad se ponen en duda, por ejemplo, cuando nos enfrentamos a problemas antrópicos en los que el número de observadores es incierto. En cuanto a la teoría de decisiones sus reglas se ponen en duda al encontrarse, por ejemplo, con problemas del tipo de Newcomb en los que otros agentes pueden predecir tu decisión antes de que ocurra. 
+
+En casos como estos es inútil tratar de resolver el problema inventándose una nueva definición de la palabra racional y diciendo: “Por lo tanto mi respuesta preferida es, por definición, a lo que nos referimos con racional”. Lo único que conseguimos es que el resto del mundo se pregunte porque debería prestarle ninguna atención a tu definición. No me interesa la teoría de probabilidad porque sea la palabra divina entregada a los hombres por Laplace. Me interesa la forma Bayesiana de actualizar creencias (utilizando la navaja de Occam para obtener las probabilidades previas) porque creo que esta forma de razonamiento nos acerca sistemáticamente a, ya sabes, la precisión, el mapa que refleja el territorio. 
+
+Y luego nos quedan las preguntas acerca del pensamiento que parecen no quedar resueltas ni por la probabilidad ni la teoría de decisiones. Como por ejemplo la pregunta de cómo sentirnos con la verdad una vez que la tenemos. Aquí nos encontramos, de nuevo, con que trata de definir “racionalidad” de una determinada manera no apoya ninguna respuesta pero sí que presupone una. 
+
+No estoy aquí para debatir el significado de una palabra, ni siquiera si la palabra es “racionalidad”. Lo importante de asociarle a un determinado concepto una secuencia de letras es permitir que dos personas se comuniquen. Ayudarles a transportar pensamientos de una mente a otra. No puedes cambiar la realidad, o demostrar un concepto, manipulando el significado asociado a cada palabra. 
+
+Así que si más o menos entiendes a que concepto me refiero con la palabra “racionalidad” y con los términos más específicos de “racionalidad epistemológica” y “racionalidad instrumental” nos hemos comunicado: hemos conseguido todo lo que se puede conseguir hablando de cómo definir “racionalidad”. Lo que queda por discutir no es el significado que asociamos a las sílabas “ra-cio-na-li-dad”; lo que queda por discutir es cuál es esa manera óptima de pensar.
+
+Si dices “Es (epistemológicamente) racional creer en X, pero la verdad es Y” entonces estás usando la palabra racional para referirte a algo diferente de lo que tengo en mente. (Por ejemplo, la “racionalidad” debería ser consistente bajo reflexión, es decir, la “racionalidad” mirando la evidencia y la “racionalidad” considerando tu cerebro procesa la evidencia no deberían llevar a conclusiones diferentes.) 
+
+Del mismo modo, si te encuentras diciendo “Lo (instrumentalmente) racional es hacer X, pero lo correcto sería hacer Y” estoy casi seguro de que estamos usando diferentes definiciones de “racional” o “correcto”. Yo uso la palabra “racionalidad” de forma normativa, es decir, para elegir patrones deseables de razonamiento. 
+
+En este caso, o en cualquier otro caso en el que hay gente en desacuerdo sobre el significado de una palabra, deberías sustituir la palabra “racional” por una descripción más específica: “Lo mejor para mi sería salir corriendo, pero me gustaría pensar que al menos trataría de sacar al niño de las vías del tren,” o “La teoría causal de la decisión en su forma más común dice que deberías coger las dos cajas en el problema de Newcomb pero yo preferiría tener un millón de dólares.”
+
+De hecho, recomiendo volver a leer este ensayo reemplazando la palabra “racional” cada vez que aparece por la palabra “foozal” y ver si eso cambia las connotaciones de lo que digo. Si ésto ocurre, te digo: No busques la racionalidad sino la foozalidad. 
+
+La palabra “racional” tiene varios casos en los que puede fallar, pero hay muchos casos que no son ambiguos en los que “racional” sirve perfectamente para comunicarse. Lo mismo ocurre con “irracional”. En estos casos no tengo problema con utilizarlas. 
+
+Pero deberíamos ser cautos a la hora de abusar de la palabra. No se ganan puntos solo por pronunciarla en voz alta. Si hablas mucho de la Senda, nunca... 
+

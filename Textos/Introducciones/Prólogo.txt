@@ -1,0 +1,45 @@
+Prólogo
+
+Lo que estás a punto de leer es una compilación de dos años de posts diarios en un blog. En retrospectiva, hecho atrás la mirada y veo un enorme número de cosas que hice mal. Algunas de ellas completamente mal. No tengo ningún problema con eso. Mirar atrás y no ver ningún error significaría que ni mi capacidad como escritor ni mi capacidad para entender este tipo de conceptos habrían mejorado desde 2009. Ups es el ruido que hacemos cuando mejoramos nuestras creencias; así que mirar atrás y no ver ningún error quiere decir que no has aprendido nada o cambiado de idea desde entonces. 
+
+Fue un error no escribir los dos años de posts con la intención de ayudar a la gente a mejorar en su vida diaria. Escribí los posts con la intención de ayudar a la gente a resolver problemas grandes, difíciles e importantes y por eso elegí problemas abstractos y altisonantes como mis ejemplos. 
+
+En retrospectiva este fue mi segundo error más grave. Se relaciona con el error más grave que cometí, que fue que no me di cuenta de que el gran problema a la hora de aprender esta forma de pensar no es conocer la teoría sino saber llevarla a la práctica. No me di cuenta de que la aplicación era prioritaria, y sobre eso solo puedo decir: “Ups”. 
+
+Sí, a veces las grandes cuestiones son realmente grandes e importantes, pero eso no cambia la simple verdad de que para dominar una habilidad hay que practicarla y que es más difícil practicar cosas que están más lejos de nuestras vidas cotidianas. (A día de hoy el Centro para la Racionalidad Aplicada (Centre for Applied Rationality, CFAR) está trabajando en arreglar este tremendo error que cometí de una forma sistemática.)
+
+Mi tercer gran error fue concentrarme demasiado en las creencias racionales y mucho menos en las acciones racionales. 
+
+Mi cuarto error fue que debería haber organizado mejor el contenido que estaba presentando en las Secuencias. En concreto, debería haber creado una wiki mucho antes y haber hecho que fuera más fácil leer los posts en orden.
+
+Al menos ese error se puede corregir. En esta obra, Rob Besinger a reordenado los posts y los ha reorganizado todo lo posible intentando no reescribir el material. (Aunque ha reescrito parte)
+
+Mi quinto error fue que, al menos como lo veía en ese momento, intenté hablar claramente acerca de la estupidez de lo que me parecían ideas estúpidas. Intenté evitar la falacia conocida como Bulverismo, que consiste en empezar la discusión hablando de lo estúpida que es la gente por creer en algo. Siempre intenté discutir la cuestión primero y sólo una vez discutida decir, “Y por eso ésto es estúpido.” Pero en 2009 me preguntaba si tal vez fuera importante tener gente alrededor que expresara desprecio por la homeopatía. En aquel momento pensaba, y aún pienso, que existe un desafortunado problema en el que al tratare ideas cortésmente lleva a algunas personas a pensar: “No me va a ocurrir nada malo si digo que creo en ésto, no perderé respeto o capital social si creo en la homeopatía,” y la risa burlona de los comediantes puede ayudarles a despertar de su sueño. 
+
+Si volviera a escribir hoy, creo que lo haría de forma más cortés y educada. La descortesía sirvió su función, y creo que hay gente a la que le sirvió leerla. Pero ahora me tomo más en serio el riesgo de construir comunidades en las que la reacción normal y esperada frente a las opiniones con baja reputación de extraños es el desprecio y la burla. 
+
+A pesar de mi error, estoy muy contento de poder decir que mis lectores de momento han sido increíblemente buenos en no usar mi retórica como excusa para abusar o atacar a otros. (Quiero mencionar en concreto a Scott Alexander, que es una mejor persona que yo y un escritor cada vez mejor al tratar estos temas. Y se merece parte del crédito por hacer de la cultura de LessWrong una cultura saludable.)
+
+Ser capaz de mirar atrás y decir “He fallado” implica que tenías metas. Así que, ¿qué estaba tratando de hacer? 
+
+Hay una determinada manera de pensar que es muy valiosa y no se enseña aún en los colegios. Este tipo de razonamiento no se enseña sistemáticamente en ningún sitio. Sólo lo puedes absorber si lees ¿Ésta usted de broma, Sr. Feynman? o tienes un muy buen profesor en el instituto. 
+
+Esta forma de pensar es mayormente conocida porque tiene que ver con la ciencia y con el método experimental. La parte de la ciencia en la que sales fuera y miras al universo en lugar de inventarte cosas. La parte en la que dices “Ups” y abandonas una teoría errónea cuando los experimentos no la apoyan. 
+
+Pero esta determinada forma de pensar se extiende más allá de ésto. Es mucho más profunda y universal que simplemente unas gafas que te pones al entrar en laboratorio y te quitas al salir. Es aplicable también a la vida cotidiana, aunque de forma más sutil y complicada. Pero si no eres capaz de decir “Ups” y abandonar algo cuando parece que no funciona, no tienes otra elección que seguir disparándote en el pie. No te queda otra que seguir recargando la escopeta y seguir apretando el gatillo. Conoces a gente como ésta. Y en algún momento, en algún lugar de tu vida en el que prefieres no pensar, tu eres una persona como éstas. Estaría bien que hubiera una determinada forma de pensar que nos ayudará a dejar de hacerlo.
+
+A pesar de lo graves que fueron mis errores, esos dos años de posts parecen haber ayudado a un número impresionante de gente una cantidad también impresionante. No han sido absolutamente perfectos, pero funcionaba a veces.
+
+La sociedad moderna nos enseña tan poco acerca de las habilidades de la racionalidad y la toma de decisiones, tan poco acerca de las matemáticas y la ciencia en las que se basan... que resulta que sólo leyendo un cantidad ingente de información no demasiado bien procesada acerca de problemas de la ciencia y la filosofía puede, increíblemente, ser bueno para ti. Atacar a estos problemas desde docenas de ángulos diferentes, puede llevarte a veces a vislumbrar el ritmo central. 
+
+Porque al fin y al cabo, todo ésto es sólo una cosa. Hablé de problemas importantes y distantes, ignorando la vida diaria, pero las leyes que los gobiernan no son tan diferentes. Hay enormes agujeros en las partes en las que me concentré, y muchas veces cogí los ejemplos equivocados; pero al final solo hay una cosa. Estoy orgulloso de poder mirar atrás de poder mirar atrás, incluso a pesar de todos los errores que cometí, de todas las veces que dije “Ups”...
+
+Incluso cinco años después, creo que ésto es mejor que nada. 
+
+	-Eliezer Yudkowsky,		
+Febrero, 2015	  	
+
+
+
+
+

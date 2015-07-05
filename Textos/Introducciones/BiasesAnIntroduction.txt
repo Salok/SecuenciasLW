@@ -1,0 +1,120 @@
+Sesgos: Una introducción
+Robert Besinger
+
+No es ningún secreto. A pesar de ello, por alguna razón, no se suele hablar de ello y muy poca gente se pregunta que deberíamos hacer acerca de ello. Es un patrón escondido, que no se deja ver pero está detrás de todos nuestros triunfos y fracasos. ¿Qué es?
+
+Imagina que metes la mano en una urna que contiene setenta bolas blancas y treinta rojas, y sacas diez bolas misteriosas. A lo mejor tres de las diez bolas son rojas, y entonces llegas a la conclusión correcta acerca de la distribución de bolas en la urna. O tal vez cojas cuatro bolas rojas, o algún otro número. Entonces probablemente llegues a una respuesta incorrecta. 
+
+Este error aleatorio es el precio a pagar por la información incompleta, y dentro de los errores, no es tan malo. Tus estimaciones no serán incorrectas de media y cuanto más sepas, más pequeño será el error. 
+
+Por el contrario supongamos que las bolas blancas son más pesadas y se hunden en la urna. Entonces puede ocurrir que tu muestra no sea representativa pero de forma consistente. 
+
+Este tipo de error es un “sesgo estadístico.” Cuándo tu método de conocer el mundo está sesgado, aprender más puede no ayudarte. De hecho, obtener más datos puede incluso empeorar consistentemente una predicción sesgada.
+
+Si solías tener una alta estima del conocimiento y del pensamiento crítico, esto tal vez te haya asustado. Si queremos estar seguros de que aprender más nos ayudará, en lugar de dejarnos peor que al principio, tenemos que encontrar y corregir los sesgos en nuestros datos. 
+
+El concepto de sesgo cognitivo en psicología funciona de una forma análoga. Un sesgo cognitivo es un error sistemático en nuestra forma de pensar, algo totalmente diferente de un error aleatorio o un error meramente causado por nuestra ignorancia. Mientras que un sesgo estadístico desvirtúa nuestra muestra para que se parezca menos a la población, los sesgos cognitivos desvirtúan nuestras creencias para que se parezcan menos a los verdaderos hechos y también desvirtúan nuestra capacidad de decisión para que sea mucho menos exacta a la hora de alcanzar nuestras metas. 
+
+Tal vez tengas un sesgo de optimismo y, al darte cuenta de que las bolas rojas pueden tratar una rara enfermedad tropical que afecta a tu hermano, sobreestimes la cantidad de bolas rojas porque te gustaría que hubiera más bolas rojas. En este caso no es la muestra la que está sesgada, eres tú. 
+
+Ahora que estamos hablando de personas sesgadas tenemos que tener cuidado. Normalmente, cuando llamamos a un individuo o a un grupo “sesgado” lo hacemos para señalar que están siendo injustos o parciales. Los sesgos cognitivos son completamente diferentes. Son una parte fundamental de como opera el pensamiento humano, no el tipo de defecto que podemos atribuir a una infancia terrible o personalidad despreciable. 1
+
+Un sesgo cognitivo es una forma sistemática de la que nuestros patrones innatos de pensamiento no alcanzan la verdad (o alguna otra meta, como la felicidad). Del mismo modo que los sesgos estadísticos, los sesgos cognitivos pueden distorsionar nuestra visión de la realidad, no siempre pueden arreglarse obteniendo más información y sus efectos se cumulan con el tiempo. Pero cuando el instrumento de medida que está mal calibrado y estás intentando arreglar eres tú, eliminar los sesgos es un desafío único. 
+
+Y aún así, es el sitio obvio por el que empezar. Porque si no puedes confiar en tu cerebro, ¿cómo puedes fiarte de nada?
+
+Sería muy útil tener un nombre para este proyecto de superar los sesgos cognitivos y todo tipo de errores en los que nuestras mentes se perjudican a si mismas. 
+
+Podemos llamar a este proyecto como queramos. Por ahora, supongo que “racionalidad” es un nombre tan bueno como cualquier otro. 
+
+Emociones racionales
+
+En una película de Hollywood, ser “racional” suele significar que eres un estricto e hiperintelectual estoico. Piensa por ejemplo en Spock, de Star Trek, que “racionalmente” reprime sus emociones, que “racionalmente” se niega a confiar en intuiciones o impulsos, y que se queda completamente estupefacto y es fácilmente derrotado cuando se encuentra con un oponente errático o “irracional”.2
+
+Hay un concepto totalmente diferente de “racionalidad” que es la estudiada por matemáticos, psicólogos y sociólogos. Más o menos, es la idea de hacer las cosas lo mejor posible con lo que tienes. Una persona racional, sin importar lo perdida que esté, forma las mejores creencias que puede con la evidencia que tiene. Una persona racional, sin importar lo terrible que sea la situación en la que está, toma las mejores decisiones que puede para mejorar sus posibilidades de éxito.
+
+La racionalidad en el mundo real no consiste en ignorar tus emociones e intuiciones. Para un humano, la racionalidad normalmente implica ser mucho más consciente de nuestras emociones para poder tenerlas en cuenta en tus decisiones. 
+
+La racionalidad puede tratar incluso sobre cuando es mejor no pensar demasiado. Cuándo elegimos un póster para colgar en la pared, o cuando predecimos el resultado de un partido de baloncesto se ha descubierto que los sujetos experimentales lo hacen peor si se para a analizar cuidadosamente su razonamiento.3,4 Hay problemas en los que la deliberación consciente nos ayuda más, pero hay otros en los que los juicios rápidos son mejores. 
+
+Los psicólogos que trabajan en teorías duales de procesos distinguen entre el Sistema 1 del cerebro (encargado de los razonamientos rápidos, implícitos, asociativos y automáticos) y el Sistema 2 (encargado de razonamientos explícitos, lentos, intelectuales y controlados). 5 El estereotipo dice que los racionalistas confían únicamente en el Sistema 2, sin tener en cuenta ni sus emociones ni sus impulsos. Si miramos más allá del estereotipo, alguien que está realmente tratando de ser racional (realmente alcanzando sus metas y mitigando el impacto de los sesgos cognitivos) confiaría mucho en los hábitos e intuiciones de su Sistema 1 en los casos en los que se pueda confiar en él. 
+
+Desafortunadamente, el Sistema 1 es un guía terrible para decidir si deberías confiar en el Sistema 1. Nuestras intuiciones sin entrenar no nos dicen cuando deberíamos dejar de confiar en ellas. Estar sesgado o no estarlo se sienten exactamente igual. 6
+
+Afortunadamente, como dice el economista del comportamiento Dan Ariely: somos predecibles en nuestra irracionalidad. Fallamos de la misma manera una y otra vez, sistemáticamente. 
+
+Si no podemos confiar en nuestro instinto para decidir si estamos sucumbiendo ante un sesgo cognitivo, tal vez podamos usar las ciencias que estudian el cerebro. 
+
+Las muchas caras de los sesgos
+
+Para resolver problemas, nuestros cerebros han evolucionado para emplear heurísticas cognitivas. Atajos o aproximaciones que nos llevan a la respuesta correcta muchas veces, pero no siempre. Los sesgos cognitivos aparecen cuando la parte que nos saltamos al atajar con estas heurísticas resulta en un error concreto que aparece de forma relativamente consistente.
+
+Por ejemplo, la heurística de representatividad es nuestra tendencia a estudiar fenómenos de acuerdo a los representativos que son de varias categorías. Ésto puede llevarnos a sesgos como la falacia de la conjunción. Tversky y Kahneman descubrieron que sus sujetos experimentales consideraban menos probable que un jugador de tenis bueno “perdiera el primer set” que que “perdiera el primer set pero ganara el partido.” 7 Remontar nos parece más típico de un buen jugador de tenis, así que sobreestimamos la probabilidad de este escenario complicado pero que suena razonable al compararla con la probabilidad de un escenario estrictamente más sencillo. 
+
+La heurística de representatividad también puede llevarnos a ignorar las frecuencias de base. Un sesgo en el que basamos nuestros juicios en una intuición sobre lo “normal” que nos parece una combinación de atributos ignorando lo común que cada atributo es en la población. 8 ¿Qué es más probable, que Steve sea un bibliotecario tímido o un vendedor tímido? Casi todo el mundo responde a esta pregunta pensando en si “tímido” es un atributo que encontremos en el estereotipo de esas profesiones. Se olvidan de tener en cuenta que los vendedores son mucho más comunes que los bibliotecarios. En EEUU, setenta y cinco veces más comunes. 
+
+Otros ejemplos de sesgos incluyen: ignorar la duración (evaluar experiencias sin tener en cuenta cuánto duraron), la falacia del coste hundido (sentirse obligado a continuar cosas en las que ya has invertido recursos en lugar de abandonar y evitar pérdidas mayores), y el sesgo de confirmación (darle más peso a la evidencia que confirma lo que ya creemos). 10,11
+
+Sin embargo, conocer un sesgo es raramente suficiente para protegerte de él. En un estudio de ceguera ante los sesgos, los sujetos experimentales predijeron correctamente que si supieran que un cuadro es de un pintor famoso, tendrían problemas al calificarlo objetivamente. Y se descubrió que, efectivamente, el grupo al que se le había dicho quien era el autor del cuadro tendieron a evaluarlo más positivamente que el grupo de control. Pero cuando se les preguntó después, ¡todos los participantes defendieron que habían juzgado los cuadros objetivamente y evitando el sesgo!
+
+Detestamos especialmente pensar que nuestro punto de vista es el equivocado cuando nos comparamos con otros. Incluso cuando identificamos correctamente los sesgos de otros, tenemos un punto ciego a la hora de buscar nuestros propios defectos. No somos capaces de detectar ningún pensamiento que parezca sesgado cuando reflexionamos, así que llegamos a la conclusión de que debemos ser mucho más objetivos que nadie. 
+De hecho, estudiar sesgos puede hacer que seas más vulnerable al exceso de confianza y al sesgo de confirmación ya que te vuelves capaz de ver la influencia de los sesgos cognitivos a tu alrededor, en todos excepto en ti mismo. Y el punto ciego, al contrario que otros sesgos, es especialmente severo en gente que es especialmente inteligente, pensativa y abierta de mente. 
+
+Ésto debería preocuparnos. 
+
+Pero... parece que deberíamos poder hacerlo mejor que ésto. Se sabe que podemos reducir el efecto que tiene ignorar las frecuencias de base si empezamos a considerar que las probabilidades son frecuencias de objetos o eventos. Podemos minimizar el efecto de nuestra tendencia a ignorar las duraciones mediante dibujos que muestren el tiempo que ha pasado o dirigiendo explícitamente nuestra atención a la duración. Hay mucha variación en cómo la gente muestra el efecto de los sesgos, así que debería haber una cantidad enorme de formas todavía desconocidas de afectar a lo sesgados que estamos. 
+
+Sin embargo, si queremos mejorar no es suficiente con leer listas de sesgos cognitivos. La forma de la que intentamos eliminar los sesgos en Rationality: From AI to Zombies es comunicar sistemáticamente por qué el buen razonamiento funciona, y cómo el cerebro se queda corto cuando intenta alcanzarlo. En la medida en la que este libro hace su trabajo, esta forma de atacar al problema puede compararse con la descrita por Serfas, que nos dice que: “Años de experiencia en finanzas no evitan que la gente caiga en la falacia del coste hundido, mientras que el número de cursos de contabilidad sí ayudó.”
+
+Cómo consecuencia, puede que sea necesario distinguir entre experiencia y habilidad. Con habilidad queremos decir: “El desarrollo de un principio esquemático que requiere la comprensión conceptual del problema”, lo que permite a la persona que toma las decisiones reconocer algunos sesgos. Sin embargo, usar la habilidad como contramedida para los sesgos requiere algo más que simplemente estar familiarizado con el contexto del problema, o ser un experto en un campo determinado. Requiere que uno comprenda completamente los mecanismos por los que el sesgo actúa, sea capaz de detectarlo en este contexto concreto y tenga a mano las herramientas para combatirlo. 
+
+El objetivo de este libro es fundar los cimientos para crear la habilidad de la racionalidad. Eso quiere decir adquirir una comprensión profunda de la estructura de un problema muy general: los sesgos que afectan a los humanos, el auto engaño y las mil formas de las que el pensamiento sofisticado puede derrotarse a si mismo. 
+
+Unas palabras acerca de este texto
+
+Rationality: From AI to Zombies nació como una serie de ensayos escritos por Eliezer Yudkowsky, publicados entre 2006 y 2009 en el blog de economía Overcoming Bias y la comunidad que surgió de él, Less Wrong. He trabajado con Yudkowsky durante el último año en el Instituto para la Investigación del Aprendizaje de Máquinas (Machine Intelligence Reseacrh Institute, MIRI) una organización sin ánimo de lucro que fundo en el año 2000 para estudiar los requisitos teóricos para llegar a construir inteligencia artificial más inteligente que los humanos (Superinteligencia).
+
+Empecé a interesarme en su trabajo tras leer sus posts. Me impresionó con su capacidad de comunicar de forma concisa algunas ideas que me había llevado años de estudio de filosofía analítica comprender. Buscando reconciliar el espíritu anárquico y escéptico de la ciencia con un enfoque más riguroso y sistemático a la investigación, Yudkowsky no solo de refutar pero también de entender los muchos pasos en falso y callejones sin salida a los que lleva la mala filosofía (y la mala falta de filosofía). La esperanza que tengo al organizar estos ensayos en un libro es tratar de hacer más fácil la entrada en el tema y también hacer más fácil el apreciarlos como un todo coherente. 
+
+El libro resultante es una introducción a la racionalidad que es frecuentemente personal e irreverente. Tomando anécdotas, por ejemplo, de las experiencias de Yudkowsky con su madre  psiquiatra y también judía ortodoxa, o su padre físico. Recoge también de conversaciones en salas de chat y listas de correo electrónico. Los lectores que ya conozcan a Yudkowsky de Harry Potter y los Métodos de la Racionalidad, su versión enfocada en la ciencia de los libros de Harry Potter de J.K Rowling, reconocerán la misma irreverencia iconoclasta y muchos de los mismos conceptos esenciales. 
+
+Estilísticamente, los ensayos contenidos en este libro recorren toda la gama. Desde “animado libro de texto” hasta “compendio de viñetas que invitan a reflexionar” pasando por “manifiesto desenfrenado,” y el contenido es igualmente variado. Rationality: From AI to Zombies recoge cientos de los posts de Yudkowsky en veintiséis secuencias, algo así como capítulos que consisten de series de posts ligados temáticamente. Las secuencias están a su vez agrupadas en seis libros, que cubren los siguientes temas: 
+
+Libro 1 - El Mapa y el Territorio. ¿Qué es una creencia y que hace que algunas creencias funcionen mejor que otras? Estas cuatro secuencias explican las nociones Bayesianas de racionalidad, creencia y evidencia. Un tema muy presente es que las cosas que llamamos “explicaciones” o “teorías” pueden no funcionar como mapas para navegar el mundo. Como resultado, nos arriesgamos a mezclar nuestros mapas mentales con el resto de objetos en nuestra caja de herramientas. 
+
+Libro 2 - Cambiando de Parecer: Esta vez en serio. Esta... ¿verdad, decís que se llama? parece muy útil. ¿Por qué, entonces, tendemos a llegar a conclusiones sin fundamentar, a defenderlas con uñas y dientes y después repetir los mismos errores una y otra vez? ¿Por qué somos tan malos adquiriendo creencias correctas y que podemos hacer para ser mejores? Estas siete secuencias tratan los razonamientos motivados y el sesgo de confirmación, con especial atención en algunos tipos de auto engaño que son especialmente difíciles de ver y en la trampa en la que muchos caemos de “usar a los argumentos como soldados.”
+
+Libro 3 - La Máquina en el Fantasma. ¿Por qué no hemos evolucionado para ser más racionales? Incluso teniendo en cuenta las limitaciones de recursos, parece que podríamos estar sacándole mucho más provecho epistemológico a nuestra evidencia. Para obtener una imagen realista de por qué nuestras mentes llevan a cabo sus funciones biológicas tenemos que mirar tras el velo para entender como funciona realmente la evolución, y como funcionan nuestros cerebros con mucha más precisión. Estas tres secuencias ilustran como incluso filósofos o científicos pueden ir por muy mal camino cuando confían en explicaciones intuitivas y poco técnicas acerca de la evolución o la psicología. Al situar a nuestras mentes en un gran espacio de sistemas orientados por metas, podemos identificar algunas de las peculiaridades del razonamiento humano y apreciar como dichos sistemas pueden “perder su propósito.”
+
+Libro 4 - La Mera Realidad. ¿En qué clase de mundo vivimos? ¿Cuál es nuestro lugar en el mundo? Ampliando los ejemplos de las secuencias anteriores acerca de como funcionan los modelos evolutivos y cognitivos, estas seis secuencias exploran la naturaleza de la mente y las cualidades de las leyes físicas. Además de aplicar y generalizar algunas de las lecciones previas acerca de los misterios científicos y la parsimonia, estos ensayos presentan nuevas preguntas acerca de que papel debería jugar la ciencia en la racionalidad individual. 
+
+Libro 5 - Mero Bien. ¿Qué es lo que le da valor, ya sea moral o estético, a las cosas? Estas tres secuencias preguntan como podemos justificar, revisar y naturalizar nuestros deseos y valores. El objetivo será encontrar una forma de comprender cuales son nuestras metas sin comprometer a nuestros esfuerzos de intentar alcanzarlas. Aquí el mayor reto es saber cuando confiar en tus complicados y confusos impulsos que aparecen en cada caso para decirte que está bien y que está mal, y cuando reemplazarlos por principios simples y sin excepciones. 
+
+Libro 6 - Haciéndonos Más Fuertes. ¿Cómo pueden los individuos y las comunidades llevar toda esta información a la práctica? Estas tres secuencias empiezan con un relato autobiográfico de los mayores errores filosóficos de Yudkowsky, con consejos acerca de como cree que otros pueden hacerlo mejor. El libro cierra con recomendaciones para crear un currículum de racionalidad aplicada basada en la evidencia,  y para crear grupos e instituciones que apoyen a los estudiantes, investigadores y educadores interesados. 
+
+Las secuencias vienen suplementadas con “interludios.” Ensayos recogidos de la página personal de Yudkowsky. Estos ensayos se relacionan con las secuencias de diversas maneras. Por ejemplo, Las Doce Virtudes de la Racionalidad resume de forma poética muchas de las lecciones de Rationality: From AI to Zombies, y se cita en otros ensayos en muchas ocasiones. 
+
+(Glosario y links a los ensayos originales) 
+
+El Mapa y el Territorio
+
+Este primer libro comienza con una secuencia sobre sesgos cognitivos: “Errores predecibles.” El resto del libro no hablará sólo de este tema; los malos hábitos e ideas son importantes incluso cuando vienen dados por el contenido de nuestras mentes y no por su estructura. Por ello, los errores evolutivos compartirán escaparate con los inventados en las siguientes secuencias, empezando con una discusión en “Falsas creencias” acerca de las formas de las que nuestras expectativas pueden separarse de las creencias que profesamos. 
+
+Cualquier relato sobre la irracionalidad estaría incompleto si no nos proveyera de una teoría acerca de como funciona la racionalidad. (O si esta teoría fuera vaga y no explicara ningún mecanismo de funcionamiento.) La secuencia “Notando nuestra confusión” nos pregunta por qué es útil basar nuestro comportamiento en expectativas “racionales” y que se siente al hacerlo. 
+
+“Respuestas misteriosas” es la siguiente. En esta secuencia nos preguntamos si la ciencia resuelve estos problemas por nosotros. Los científicos basan sus modelos en experimentos replicables, no en especulación o rumores. Y la ciencia tiene una hoja de servicios excelente comparada con las anécdotas, la religión y... todo lo demás. ¿Tenemos que seguir preocupándonos sobre “falsas creencias”, sesgos de confirmación, sesgos de retrospectiva y sus amigos incluso cuando trabajamos con gente que quiere explicar fenómenos y no contar historias bonitas? 
+
+A todo ésto le sigue La Verdad es Sencilla, una alegoría sobre la naturaleza del conocimiento y las creencias. 
+
+Son los sesgos cognitivos, sin embargo, los que nos dan la imagen más clara y directa del funcionamiento de nuestra psicología. Nos dejan vislumbrar la forma de nuestras heurísticas y la lógica de nuestras limitaciones. Es con los sesgos con lo que comenzaremos. 
+
+Hay un pasaje en el Zhuangzi, uno de los textos originarios del Taoísmo, dice: “La trampa para peces existe porque hay peces, una vez tengas los peces puedes dejar la trampa.”20
+
+Te invito a explorar este libro con este espíritu. Úsalo como usarías una trampa para peces, teniendo siempre en mente su propósito. Lleva contigo aquello que puedas usar, mientras tengas un uso para éllo; descarta todo lo demás. Y que tu propósito te sirva bien. 
+
+Agradecimientos
+
+Estoy tremendamente agradecido a Nate Soares, Elizabeth Tarleton, Paul Crowley, Brienne Strohl, Adam Freese, Helen Toner, y a docenas de voluntarios por revisar partes de este libro. 
+
+Le debo un agradecimiento especial y sincero a Alex Vermeer que ayudó a guiar este libro hasta que estuvo completado, y a Tsvi Benson-Tilsen, que revisó la totalidad del libro para asegurar su legibilidad y consistencia.
+
